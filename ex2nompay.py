@@ -1,0 +1,5 @@
+print ("ingrese los datos solicitados para el calculo de la paga")
+hours = input("horas :")
+rate = input("tarifa :")
+paga = float(hours)*float(rate)
+print ("paga = ", paga)

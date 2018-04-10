@@ -1,0 +1,4 @@
+En este capitulo unicamente se ven las definiciones de clase, sub clase, conceptos de herencia,
+que es un método que es un artributo y como se pueden generar fuciones.
+No contiene ejercicios de práctica.
+Se sugiere agregar algunos propios para obervar como fucionan este tipo de progrmas en python.
